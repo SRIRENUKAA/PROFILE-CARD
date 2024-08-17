@@ -1,5 +1,5 @@
 function sendToWhatsapp(){
-    let number = "+919361766047";
+    let number = "+91 ----------";
     
     var url = "https://wa.me/" + number + "?text=";
 
